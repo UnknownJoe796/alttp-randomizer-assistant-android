@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Randomizer Assistant</string>
+    <string name="alttp_keysanity">ALTTP Keysanity</string>
+    <string name="item_with_count">%1$s (%2$d)</string>
+</resources>

@@ -1,0 +1,10 @@
+
+include ':kotlin-core', ':randomizer-logic'
+include ':kotlin-observable'
+include ':kotlin-networking'
+include ':kotlin-anko'
+include ':kotlin-anko-view-controllers'
+include ':kotlin-anko-networking'
+include ':kotlin-anko-observable'
+include ':kotlin-anko-full'
+include ':app'
